@@ -163,19 +163,23 @@ If a future exercise ever breaks or changes the VM, it can be rolled back to thi
 
 **1. Lab architecture overview**
 
-![Lab architecture overview](1-screenshot-title-image.png)
+![Lab architecture overview](
+<img width="1346" height="616" alt="1-screenshot-title-image" src="https://github.com/user-attachments/assets/be391b1f-6f17-4c19-8030-064ef1895d25" />
+)
 
 **2. VirtualBox NAT Network settings**
 
-![NAT Network settings](2-screenshot-network-settings.png)
+![NAT Network settings](<img width="1674" height="1053" alt="2-screenshot-network-settings" src="https://github.com/user-attachments/assets/b07c27f4-eb5a-44ea-bb79-4d5ed7ce2b2c" />
+)
 
 **3. Kali Linux running in VirtualBox**
 
-![Kali Linux VM](3-screenshot-kali-linux.png)
+![Kali Linux VM](<img width="1915" height="1081" alt="3-screenshot-kali-linux" src="https://github.com/user-attachments/assets/01bdaa91-a21d-48d1-9d88-4ad2711cc933" />)
 
 **4. Kali Linux network configuration**
 
-![Kali network settings](4-screenshot-kali-network-settings.png)
+![Kali network settings](<img width="1910" height="1075" alt="4-screenshot-kali-network-settings" src="https://github.com/user-attachments/assets/47d4288a-fde4-4cd4-8855-b1b31e9e7d51" />
+)
 
 ---
 
